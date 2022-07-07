@@ -514,6 +514,19 @@ li {
     padding: 5px 10px;
     border-radius: 3px;
 }
+.about .resume-download-vn {
+    display: block;
+    position: absolute;
+    right: 0;
+    top: -12px;
+    background: #6dbd48;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: #FFF;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
 
 /*-----------------------------------------------------------------*/
 
